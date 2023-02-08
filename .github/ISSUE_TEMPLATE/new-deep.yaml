@@ -1,8 +1,17 @@
 name: Create New DEEP
 description: https://deep.donedone.me
-title: "input your title"
 labels: [DEEP]
 body:
+- type: checkboxes
+  attributes:
+    label: 체크리스트
+    options:
+      - label: 제목을 입력하셨나요?
+        required: true
+      - label: Assignee를 지정하셨나요?
+        required: true
+      - labe: 이 DEEP에 맞는 Project를 지정하셨나요?
+        required: true
 - type: textarea
   attributes:
     label: 요약
