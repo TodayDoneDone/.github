@@ -9,7 +9,7 @@ body:
           required: true
         - label: Assignee를 지정하셨나요?
           required: true
-        - label: 이 DEEP에 맞는 label을 지정하셨나요? (`deep-automation`, `deep-library`, `deep-product`)
+        - label: 이 DEEP에 맞는 label을 지정하셨나요? (deep-automation, deep-library, deep-product)
           required: true
   - type: textarea
     attributes:
