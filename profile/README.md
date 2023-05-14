@@ -6,6 +6,7 @@
 던던팀의 핵심 비전은 ["DoneDone을 소개합니다."](https://blog.donedone.me/donedone%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-e0d94898572b) 게시글을 확인해 주세요!
 
 - [던던 블로그](https://blog.donedone.me/)
+- [던던팀 협업 가이드라인](https://experience.donedone.me/)
 - [MVP 스프린트 관리 문서](https://github.com/orgs/TodayDoneDone/projects/8)
 
 > *오늘도 우리의 일상을 Done 하세요!*
